@@ -1,12 +1,16 @@
-###                                                   Hi there 👋 I'm Storm
+#                                                   Hi there 👋 I'm Storm
 
 ##                                      I am studying software engineering at Codam Coding College
 
 
 - 🔭 I’m currently working on: **minishell (building my own basic bash like shell)**
+
 - 🌱 I’m currently learning: **C, Makefiles, Unit-tester**
+
 - ✅ Projects I recently finished: **libft (writing my own library functions), pipex (writing my own pipex funciton), fdf (Wireframe of representation of data)**
+
 - Fun fact: I love playing Padel
+
 
 
 📫 How to reach me:   https://www.linkedin.com/in/storm-de-quay/  ||  stormdequay@gmail.com
