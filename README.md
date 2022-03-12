@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning: **C, Makefiles, Unit-tester**
 
-- ✅ Projects I recently finished: **libft (writing my own library functions), pipex (writing my own pipex funciton), fdf (Wireframe of representation of data)**
+- ✅ Projects I recently finished: **libft (writing my own library functions), pipex (writing my own pipex funciton), fdf (Wireframe representation of data)**
 
 - Fun fact: I love playing Padel
 
