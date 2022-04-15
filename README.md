@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning: **C, Makefiles, Unit-tester**
 
-- ✅ Projects I recently finished: **libft (writing my own library functions), pipex (writing my own pipex funciton), fdf (Wireframe representation of a 3d map)**
+- ✅ Projects I recently finished: **pipex (writing my own pipe (|) function), fdf (Wireframe representation of a 3d map) and philosophers**
 
 - ⚡ Fun fact: I love playing Padel 🏸
 
