@@ -2,13 +2,13 @@
 
 ##                                      I am studying software engineering at Codam Coding College
 
-- 📕 I have a degree in Industrial Engineering & Management
+- 📕 I have a degree in Industrial Engineering & Management and now I am following the core-curriculum from the 42 Network
 
-- 🔭 I’m currently working on: **minishell (building my own basic bash like shell)**
+- 🔭 I’m currently working on: **minishell (building my own basic bash like shell) and the c++ modules**
 
-- 🌱 I’m currently learning: **C, Makefiles, Unit-tester**
+- 🌱 I’m currently learning: **C, C++, Unit-testing**
 
-- ✅ Projects I recently finished: **pipex (writing my own pipe (|) function), fdf (Wireframe representation of a 3d map) and philosophers**
+- ✅ Projects I recently finished: **philosophers (solved a problem using threads), pipex (writing my own pipe (|) function) and fdf (Wireframe representation of a 3d map)**
 
 - ⚡ Fun fact: I love playing Padel 🏸
 
