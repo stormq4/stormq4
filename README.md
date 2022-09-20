@@ -4,11 +4,13 @@
 
 - 📕 I have a degree in Industrial Engineering & Management and now I am following the core-curriculum from the 42 Network
 
-- 🔭 I’m currently working on: **minishell (building my own basic bash like shell) and the c++ modules**
+- 🔭 I’m currently working on: **ft_containers (building my own vector, map and stack with the benchmark almost as good to the regular ones written in CPP) and  Mini-RT (Building my own mini raytracer, while applying concurrency written in C)**
 
-- 🌱 I’m currently learning: **C, C++, Unit-testing**
+- 👯 In the next comming months I will be learning: **Docker, Typescript (for backend and frontend), Kubernetes and moreeeee C++**
 
-- ✅ Projects I recently finished: **philosophers (solved a problem using threads), pipex (writing my own pipe (|) function) and fdf (Wireframe representation of a 3d map)**
+- 🌱 I’m currently learning: **Unit-testing, Integration-testing && Data structures**
+
+- ✅ Projects I recently finished: **philosophers (solved a problem using threads and learned concurrency), pipex (writing my own pipe (|) function), fdf (Wireframe representation of a 3d map), minishell (building my own basic bash like shell in c) and the CPP_Modules (learning crucial knowledge on CPP)**
 
 - ⚡ Fun fact: I love playing Padel 🏸
 
