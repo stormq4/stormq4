@@ -4,7 +4,7 @@
 
 - 📕 I have a degree in Industrial Engineering & Management and now I am following the core-curriculum from the 42 Network
 
-- 🔭 I’m currently working on: **ft_containers (building my own vector, map and stack with the benchmark almost as good to the regular ones written in CPP) and webserver (building a weberver in CPP)**
+- 🔭 I’m currently working on: **ft_containers (building my own vector, map and stack with the benchmark almost as good to the regular ones written in CPP) and webserve (building a webserver in CPP)**
 
 - 👯 In the upcomming months I will be learning: **Docker, Typescript (for backend and frontend), Kubernetes and moreeeee C++**
 
