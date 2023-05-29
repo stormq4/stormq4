@@ -4,13 +4,11 @@
 
 - 📕 I have a degree in Industrial Engineering & Management and now I am following the core-curriculum from the 42 Network
 
-- 🔭 I’m currently working on: **Transcendance (creating web application with pong and a chat using Nest.js and Vue.js while applying TypeScript)**
+- 🔭 I’m currently working on: **Transcendance (creating sing page application with a pong game and a chat using Nest.js and Vue.js wit hTypeScript)**
 
-- 👯 In the upcomming months I will be learning: **Docker**
+- 🌱 I’m currently learning: **Docker and PostgreSql**
 
-- 🌱 I’m currently learning: **Unit-testing, Integration-testing && Data structures**
-
-- ✅ Projects I recently finished: **Webserve (Group Project to build a http server from scratch in C++), Mini-RT (Group project for building our own mini raytracer, while applying concurrency written in C), minishell (Group project to build a basic bash like shell in C)**
+- ✅ Projects I recently finished: **Webserve (Group Project where we built a http server from scratch in C++), Mini-RT (Group project where we built our own raytracer, while applying concurrency written in C), minishell (Group project where we built our own basic bash like shell in C)**
 
 - ⚡ Fun fact: I love playing Padel 🏸
 <br />
