@@ -1,12 +1,12 @@
 #                                                   Hi there 👋 I'm Storm
 
-##                                      I am studying software engineering at Codam Coding College
+##                                      I am currently looking for a position as a Software Engineer
 
-- 📕 I have a degree in Industrial Engineering & Management and now I am following the core-curriculum from the 42 Network
+- 📕 I have a degree in Industrial Engineering & Management, also I have finished the core curriculum from Ecole 42 at Codam Coding College.
 
-- 🌱 I’m currently learning: **Python and Java**
+- 🌱 I’m currently learning: **Java (Spring Boot), C# (.NET) and Python**
 
-- ✅ Projects I recently finished: **Transcendance (creating sing page application with a pong game and a chat using Nest.js and Vue.js wit TypeScript), Webserve (Group Project where we built a http server from scratch in C++), Mini-RT (Group project where we built our own raytracer, while applying concurrency written in C), minishell (Group project where we built our own basic bash like shell in C)**
+- ✅ Projects I recently finished: **Transcendance (creating sing page application with a pong game and a chat using Nest.js and Vue.js wit TypeScript), Webserver (Group Project where we built a http server from scratch in C++), Mini-RT (Group project where we built our own raytracer, while applying concurrency written in C), Minishell (Group project where we built our own basic bash like shell in C)**
 
 - ⚡ Fun fact: I love playing Padel 🏸
 <br />
